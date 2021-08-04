@@ -5,15 +5,15 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software engineering at ISEP in Paris.
 - 💼 &nbsp; Worked as a Project manager at SGCC (State Grid Corporation of China).
-- 🌱 &nbsp; Learning more about Web Development, Cloud Architecture, Cyber Security.
-- ✍️ &nbsp; Pursuing web sites creation and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Web Development, Cloud Architecture, Cybersecurity.
+- ✍️ &nbsp; Pursuing websites creation and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
