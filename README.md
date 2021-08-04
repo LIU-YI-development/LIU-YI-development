@@ -32,10 +32,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
 
@@ -50,7 +46,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/yi-liu-4469811b5/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yi%20LIU%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/yi-liu-4469811b5/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yi LIU-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:yiliu.ly@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-yiliu.ly@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
