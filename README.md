@@ -50,7 +50,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="yiliu.ly@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-yiliu.ly@outlook.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://www.linkedin.com/in/yi-liu-4469811b5/-blue?style=flat-square&logo=linkedin"></a>
+<img alt="Email" src="https://img.shields.io/badge/Email-yiliu.ly@outlook.com-blue?style=flat-square&logo=gmail">
 </p>
 
